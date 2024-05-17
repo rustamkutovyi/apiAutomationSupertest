@@ -16,7 +16,7 @@ describe('TOUR', () => {
             .post('/tours')
             .set('Cookie', cookie)
             .send({
-                "name":"TourForn534",
+                "name":"TourForn50",
                 "duration": 10,
                 "description":"Could be",
                 "maxGroupSize": 10,
